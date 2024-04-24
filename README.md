@@ -5,7 +5,7 @@ Use TypeScript como as consultas LINQ de .NET
 
 ### Exemplos
 
-Lista de pessoas
+Lista de pessoas:
 
 ```
     let listaPessoa = new List(Pessoa);
